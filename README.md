@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @A200721
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning english
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+hi
 
 
